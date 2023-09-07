@@ -5,7 +5,7 @@ La prévision du rendement des cultures est un problème agricole important. Le 
 
 Voici le résultat final de mon projet réalisé avec Flask. 
 Le résultat nous permet de conclure sur le rendement en hectare possible dans le pays indiqué. 
-** Lecture: En Albanie, une production de 36 613 rendements à l'hectare est enregistrée pour le maïs. **
+**Lecture: En Albanie, une production de 36 613 rendements à l'hectare est enregistrée pour le maïs.**
 
 
 ![yied_app](https://github.com/maevaportfolio/Crop-Yield-Prediction/assets/108234726/9b6c738a-5fe3-4d34-9468-a54401c7f110)
