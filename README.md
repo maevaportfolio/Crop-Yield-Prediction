@@ -1,12 +1,14 @@
-# Crop-Yield-Prediction
-L'agriculture joue un rôle essentiel dans l'économie mondiale. Avec l’expansion continue de la population humaine, la compréhension des rendements agricoles mondiaux est essentielle pour relever les défis de la sécurité alimentaire et réduire les impacts du changement climatique.
+# Crop Yield Prediction
 
-La prévision du rendement des cultures est un problème agricole important. Le rendement agricole dépend principalement des conditions météorologiques (pluie, température, etc.), des pesticides et des informations précises sur l'historique du rendement des cultures sont un élément important pour prendre des décisions liées à la gestion des risques agricoles et aux prévisions futures
+![agriculture2](https://github.com/maevaportfolio/Crop-Yield-Prediction/assets/108234726/d04c4bbb-c37f-4af8-af63-2c526d913248)
 
-Voici le résultat final de mon projet réalisé avec Flask. 
-Le résultat nous permet de conclure sur le rendement en hectare possible dans le pays indiqué. 
+Agriculture plays a pivotal role in the global economy. With the continuous expansion of the human population, understanding global agricultural yields is crucial to addressing food security challenges and mitigating the impacts of climate change.
 
-**Lecture: En Albanie, une production de 36 613 rendements à l'hectare est enregistrée pour le maïs.**
+Predicting crop yields is a significant agricultural issue. Agricultural yield primarily depends on weather conditions (rainfall, temperature, etc.), pesticides, and accurate historical crop yield information is a vital element in making decisions related to agricultural risk management and future forecasts.
+
+Here is the final result of my project realized with Flask. The outcome allows us to conclude on the potential yield per hectare in the indicated country.
+
+**Reading: In Albania, a production of 36,613 yields per hectare is recorded for corn.**
 
 
 ![yied_app](https://github.com/maevaportfolio/Crop-Yield-Prediction/assets/108234726/9b6c738a-5fe3-4d34-9468-a54401c7f110)
